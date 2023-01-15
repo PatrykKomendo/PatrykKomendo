@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there 👋 My name is Patryk.
+I am motivated to start my journey in the IT world as a Software Tester. I was acquiring my knowledge and skills through various types of courses, internet research, or books about testing. Thanks to that, I became a Software Development Academy graduate and a certified tester (ISTQB). I am prepared for further learning and development.
 
 <!--
 **PatrykKomendo/PatrykKomendo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
