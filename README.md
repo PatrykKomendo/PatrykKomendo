@@ -6,6 +6,7 @@ I am motivated to start my journey in the IT world as a Software Tester. I was a
 ### What do I do for fun?
 I am keen on strength sport disciplines. Apart from that, I am a fan of computer games. In my free time, I also like to delve into the intriguing world of astrophysics.
 
+### Check my [Portfolio (https://github.com/PatrykKomendo/Portfolio)]
 
 <!--
 **PatrykKomendo/PatrykKomendo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
