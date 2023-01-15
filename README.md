@@ -1,5 +1,11 @@
-### Hi there 👋 My name is Patryk.
+### Hi there 👋 My name is Patryk and I am Software Tester Candidate.
+
+### About me
 I am motivated to start my journey in the IT world as a Software Tester. I was acquiring my knowledge and skills through various types of courses, internet research, or books about testing. Thanks to that, I became a Software Development Academy graduate and a certified tester (ISTQB). I am prepared for further learning and development.
+
+### What do I do for fun?
+Privately, I am keen on strength sport disciplines. Apart from that, I am a fan of computer games. In my free time, I also like to delve into the intriguing world of astrophysics.
+
 
 <!--
 **PatrykKomendo/PatrykKomendo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
