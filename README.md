@@ -8,7 +8,7 @@ I am keen on strength sport disciplines.:muscle: Apart from that, I am huge fan 
 
 ### :point_right: Check my [Portfolio](https://github.com/PatrykKomendo/Portfolio) 
 
-### 🛂 How to reach me:
+### 🤝 How to reach me:
 
 ➡️ [LinkedIn](https://www.linkedin.com/in/patryk-komendo/)
 
