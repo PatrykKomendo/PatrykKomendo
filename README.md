@@ -10,7 +10,9 @@ I am keen on strength sport disciplines.:muscle: Apart from that, I am huge fan 
 
 ### How to reach me:
 [LinkedIn](https://www.linkedin.com/in/patryk-komendo/)
+
 [Facebook](https://www.facebook.com/patryk.komendo/)
+
 [Email](patryk.komendo@gmail.com)
 
 <!--
