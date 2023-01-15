@@ -14,7 +14,7 @@ I am keen on strength sport disciplines.:muscle: Apart from that, I am huge fan 
 
 📘 [Facebook](https://www.facebook.com/patryk.komendo/)
 
-📧 [Email](patryk.komendo@gmail.com)
+📧 [Email]patryk.komendo@gmail.com
 
 <!--
 **PatrykKomendo/PatrykKomendo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
