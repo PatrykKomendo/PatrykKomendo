@@ -6,7 +6,7 @@ I am motivated to start my journey in the IT world as a Software Tester. I was a
 ### 😄 What do I do for fun? 
 I am keen on strength sport disciplines.:muscle: Apart from that, I am huge fan of video games. :video_game: In my free time, I also like to delve into the intriguing world of astrophysics. 🚀
 
-## :point_right: Check my [Portfolio](https://github.com/PatrykKomendo/Portfolio) 
+### :point_right: Check my [Portfolio](https://github.com/PatrykKomendo/Portfolio) 
 
 ### 🤝 How to reach me:
 
