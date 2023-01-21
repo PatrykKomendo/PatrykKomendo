@@ -10,11 +10,11 @@
 
 ### 🤝 How to reach me:
 
-➡️ [LinkedIn](https://www.linkedin.com/in/patryk-komendo/)
+- ➡️ [LinkedIn](https://www.linkedin.com/in/patryk-komendo/)
 
-📘 [Facebook](https://www.facebook.com/patryk.komendo/)
+- 📘 [Facebook](https://www.facebook.com/patryk.komendo/)
 
-📧 patryk.komendo@gmail.com
+- 📧 patryk.komendo@gmail.com
 
 <!--
 **PatrykKomendo/PatrykKomendo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
